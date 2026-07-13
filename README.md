@@ -1,6 +1,6 @@
 # Store Sales Dashboard | Power BI Business Intelligence Project
 
-An interactive **Power BI dashboard** built to analyze retail sales performance across multiple business dimensions including sales, profit, customers, products, regions, and categories. This project demonstrates an end-to-end data analytics workflow involving **Excel, SQL, and Power BI**.
+An interactive **Power BI dashboard** built to analyze retail sales performance across multiple business dimensions including sales, profit, customers, products, regions, and categories. This project demonstrates an end-to-end data analytics workflow involving **Python, SQL, and Power BI**.
 
 ---
 
