@@ -61,10 +61,9 @@ The dashboard enables users to:
 
 # Tools & Technologies
 
-- Microsoft Excel
+- Python
 - SQL
 - Microsoft Power BI
-- DAX (Data Analysis Expressions)
 
 ---
 
