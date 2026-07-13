@@ -5,10 +5,10 @@ An end-to-end sales analytics project covering data cleaning, exploratory data a
 ## Dashboard Preview
 
 **Overview Page**
-![Store Sales Dashboard - Overview](dashboard2.png)
+![Store Sales Dashboard - Overview](dashboard1.png)
 
 **Detailed Sales Analysis Page**
-![Store Sales Dashboard - Detailed Analysis](dashboard1.png)
+![Store Sales Dashboard - Detailed Analysis](dashboard2.png)
 
 ## Project Structure
 
