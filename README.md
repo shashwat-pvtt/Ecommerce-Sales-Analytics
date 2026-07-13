@@ -215,5 +215,3 @@ LinkedIn: www.linkedin.com/in/shashwats07
 GitHub: www.github.com/shashwat-pvtt
 
 ---
-
-## ⭐ If you found this project useful, consider giving it a star!
